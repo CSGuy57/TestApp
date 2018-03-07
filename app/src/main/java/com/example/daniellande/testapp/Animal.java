@@ -9,6 +9,7 @@ public class Animal {
     private String color;
     private double weight;
 
+    // Constructor for the animal app
     public Animal(String name, String color, double weight) {
         this.name = name;
         this.color = color;
